@@ -1,68 +1,128 @@
-<div align="left">
+<div align="center">
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, #58a6ff 0%, #1a1a2e 55%, transparent 100%); margin: 0 0 28px 0;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Ai%20Yang&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Always%20Young.%20%7C%20Full-stack%20%C3%97%20AI%20%C3%97%20Embodied%20Intelligence&descAlignY=55&descSize=16" alt="header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+systems+that+perceive%2C+reason+%26+act.;Full-stack+%C3%97+LLM+%C3%97+Embodied+Intelligence;Less+demo.+More+deployment." alt="typing" />
+
+<br />
+
+<img src="https://avatars.githubusercontent.com/u/175095108?v=4" width="110" style="border-radius: 50%; border: 3px solid #58a6ff; box-shadow: 0 0 24px rgba(88,166,255,0.35);" alt="Ai Yang" />
+
+<br /><br />
+
+[![GitHub followers](https://img.shields.io/github/followers/aiyangFuture?style=for-the-badge&logo=github&color=0d1117&labelColor=21262d)](https://github.com/aiyangFuture?tab=followers)
+[![Email](https://img.shields.io/badge/Email-241944901%40qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:241944901@qq.com)
+[![Profile views](https://komarev.com/ghpvc/?username=aiyangFuture&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/aiyangFuture)
+
+</div>
+
+---
+
+### 👋 About
 
 <table>
 <tr>
-<td width="96" valign="top">
-<img src="https://avatars.githubusercontent.com/u/175095108?v=4" width="80" style="border-radius: 14px;" alt="Ai Yang" />
+<td width="58%" valign="top">
+
+I work across the whole stack — **React & TypeScript** up front, **Java & Python** underneath, **PyTorch** where the model lives.
+
+The thread I'm pulling on: software that **closes the loop** between perception, reasoning, and physical action.
+
+```text
+  perceive  ──▶  reason  ──▶  act  ──▶  learn
+     ▲                                  │
+     └──────────────────────────────────┘
+```
+
 </td>
-<td valign="top">
+<td width="42%" valign="top">
 
-# Ai Yang
-
-<sub><strong>Always Young.</strong> · full-stack × LLM × embodied intelligence</sub>
+```yaml
+name: Ai Yang
+location: Earth
+focus:
+  - Full-stack Engineering
+  - LLM Applications
+  - Embodied Intelligence
+currently:
+  - Extending awesome-llm-apps
+  - Building personal site
+  - Open to collab & roles
+```
 
 </td>
 </tr>
 </table>
 
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aiyangFuture&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats" />
+<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=aiyangFuture&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="streak" />
 <br />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiyangFuture&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="languages" />
 
-I work across the whole stack — React and TypeScript up front, Java and Python underneath, PyTorch where the model lives.
+</div>
 
-The thread I'm pulling on: software that **closes the loop** between perception, reasoning, and physical action. Less demo, more deployment.
+---
 
-<br />
+### 🛠 Tech Stack
 
-**Tools I reach for**
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,ts,react,pytorch,docker,cpp,ros,git,linux&perline=10" alt="skills" />
+
+<br /><br />
 
 `Python` · `Java` · `TypeScript` · `React` · `PyTorch` · `Docker` · `C++` · `ROS`
 
-<br />
+</div>
 
-### Work
+---
 
-| | |
+### 🚀 Featured Projects
+
+| Project | Description |
 | :--- | :--- |
-| [**awesome-llm-apps**](https://github.com/aiyangFuture/awesome-llm-apps) | LLM app patterns and experiments — the repo I keep adding to first. |
+| [**awesome-llm-apps**](https://github.com/aiyangFuture/awesome-llm-apps) | LLM app patterns & experiments — the repo I keep extending first. |
+| [**AIY_Personal_Notes**](https://github.com/aiyangFuture/AIY_Personal_Notes) | Cloud-synced personal knowledge base for notes & learning. |
+
+---
+
+### ✍️ Writing
+
+Essays on building, robotics, and the bugs that teach you something — **coming soon**.
+
+---
+
+### 🔥 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aiyangFuture&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&area_opacity=0.15&hide_border=true&custom_title=Contribution%20Activity&height=300" alt="activity graph" />
 
 <br />
 
-### Writing
+<!-- Snake animation is generated by GitHub Actions -->
+<img src="https://raw.githubusercontent.com/aiyangFuture/aiyangFuture/output/github-contribution-grid-snake.svg" alt="snake" />
 
-Essays on building, robotics, and the bugs that teach you something — **not started yet**, slot reserved.
+</div>
 
-<br />
+---
 
-### Now
+### 📫 Connect
 
-- Extending `awesome-llm-apps` and hardening the workflow around it
-- Personal site in the works
-- Open to full-stack, LLM, and robotics-facing roles
+<div align="center">
 
-<br />
+[![GitHub](https://img.shields.io/badge/GitHub-aiyangFuture-181717?style=for-the-badge&logo=github)](https://github.com/aiyangFuture)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:241944901@qq.com)
+[![Website](https://img.shields.io/badge/Website-Coming%20Soon-58a6ff?style=for-the-badge&logo=vercel)](https://github.com/aiyangFuture)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aiyangFuture&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&area_opacity=0.12&hide_border=true&custom_title=Contribution%20activity&height=280" alt="Contribution activity" />
+<br /><br />
 
-<br />
-
-<hr style="border: none; height: 1px; background: #21262d; margin: 24px 0;" />
-
-[`241944901@qq.com`](mailto:241944901@qq.com) · [GitHub](https://github.com/aiyangFuture) · website — soon
-
-<br />
-
-<sub>Always Young.</sub>
+<sub><strong>Always Young.</strong> — ship things that move the world, one loop at a time.</sub>
 
 </div>
