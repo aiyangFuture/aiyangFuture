@@ -67,7 +67,10 @@ Less demo. More deployment.
 
 <br />
 
-<img src="https://raw.githubusercontent.com/aiyangFuture/aiyangFuture/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aiyangFuture/aiyangFuture/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/aiyangFuture/aiyangFuture/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+</picture>
 
 <br />
 
